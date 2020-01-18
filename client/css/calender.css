@@ -1,0 +1,22 @@
+.screen {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+}
+
+.sectionc {
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 6px;
+	margin-bottom: 15px;
+}
+
+.date-selection {
+	border: 1px solid black;
+}
+
+.calender {
+	margin: 10px 10px 100px 10px;
+ 	border: 10px solid black;
+}
+
